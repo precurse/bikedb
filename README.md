@@ -1,3 +1,6 @@
+NOTE: This has been ported to Arduino/FreeRTOS due to Micropython stability bugs with the ESP32-C3.
+The new project is [available here](https://github.com/precurse/BikeCU)
+
 # BikeDB
 ESP32 Data logger for Schwinn IC4 (and probably other bikes as well)
 
